@@ -54,16 +54,16 @@
 
 - Nerdweb
 <div>
-  <img align="center"  height="350" width="500" src="https://user-images.githubusercontent.com/94642853/162272463-78261806-32c6-45ff-bd3d-0c1c30cfe208.png"/>
-  <img align="center"  height="350" width="500" src="https://user-images.githubusercontent.com/94642853/162269482-4bcd2a7b-15a3-4676-8c83-c44ef64301f1.png"/>
+  <img align="center"  height="300" width="400" src="https://user-images.githubusercontent.com/94642853/162272463-78261806-32c6-45ff-bd3d-0c1c30cfe208.png"/>
+  <img align="center"  height="300" width="400" src="https://user-images.githubusercontent.com/94642853/162269482-4bcd2a7b-15a3-4676-8c83-c44ef64301f1.png"/>
 </div>
 
 ##
 
 - Hogwarts Magic
 <div>
-  <img align="center"  height="350" width="500" src="https://user-images.githubusercontent.com/94642853/160031994-3a99ec17-8a06-46bd-ab29-dc91e0baefda.png"/>
- <img align="center"  height="350" width="500" src="https://user-images.githubusercontent.com/94642853/160032213-f5195a16-6fb3-46d1-8c1e-a0856cfeb1e6.png"/>
+  <img align="center"  height="300" width="400" src="https://user-images.githubusercontent.com/94642853/160031994-3a99ec17-8a06-46bd-ab29-dc91e0baefda.png"/>
+ <img align="center"  height="300" width="400" src="https://user-images.githubusercontent.com/94642853/160032213-f5195a16-6fb3-46d1-8c1e-a0856cfeb1e6.png"/>
 
 ##
 
