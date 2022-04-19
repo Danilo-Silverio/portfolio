@@ -46,8 +46,8 @@
 
 - Finclass
 <div>
-  <img align="center"  height="350" width="500" src="https://user-images.githubusercontent.com/94642853/160842431-820f9962-a4ca-4e27-91ea-4920fcc5d544.png"/>
-  <img align="center"  height="350" width="500" src="https://user-images.githubusercontent.com/94642853/160842737-67458b50-9d34-4fde-b68f-bc54f7813863.png"/>
+  <img align="center"  height="300" width="450" src="https://user-images.githubusercontent.com/94642853/160842431-820f9962-a4ca-4e27-91ea-4920fcc5d544.png"/>
+  <img align="center"  height="300" width="450" src="https://user-images.githubusercontent.com/94642853/160842737-67458b50-9d34-4fde-b68f-bc54f7813863.png"/>
 </div>
 
 ##
