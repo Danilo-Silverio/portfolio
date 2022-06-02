@@ -7,7 +7,7 @@
 
 <h3><a href="https://github.com/Danilo-Silverio/Finclass">Finclass</a></h3>
   
-- <strong>Description:</strong> This is a project inspired by the largest financial education platform in the world, Finclass. It was developed in order to learn more about Front End development using HTML, CSS, Javascript, React.js and UI/UX Design tools. The focus of our project is to reproduce a clone of the Finclass website faithfully with Design and functionalities. (Project in progress)
+- <strong>Description:</strong> This is a Landing Page project inspired by the largest financial education platform in the world, Finclass. It was developed in order to learn more about Front End development using HTML, CSS, Javascript, React.js and UI/UX Design tools.
 - <strong>Link surge:</strong> https://muddled-toys.surge.sh/
 <div style="display: inline_block"><br>
   <img align="center" alt="Danilo-JS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
