@@ -5,6 +5,20 @@
 
 ## Projects
 
+<h3><a href="https://github.com/Danilo-Silverio/Filmeo">Filmeo</a></h3>
+  
+- <strong>Description:</strong> Are you tired of spending hours staring at screens trying to find the best movies to watch in your spare time? Filmeo is the solution, I present to you the application that shows only the most popular movies and series of the moment to enjoy with your family. Using themoviedb free movies API in its version 3, a list of the most popular movies and series of the moment was developed, consulting the endpoints `GET ${/movie/popular} & ${tv/popular}` to perform the list. When clicking on an item in this listing, another page with the details of the selected option should appear. To access more details about our catalog, we used the `GET {/movie/{movie_id}} &{tv/{tv_id}` endpoints. To ensure that the user finds their ideal content, this list is paginated, allowing you to navigate between pages and choose the best option for you.
+- <strong>Link surge:</strong> https://filmeo.surge.sh/
+<div style="display: inline_block"><br>
+  <img align="center" alt="Danilo-JS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Danilo-HTML" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> 
+  <img align="center" alt="Danilo-CSS" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img align="center" alt="Danilo-React" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Danilo-MaterialUi" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+</div>
+
+##
+
 <h3><a href="https://github.com/Danilo-Silverio/Finclass">Finclass</a></h3>
   
 - <strong>Description:</strong> This is a Landing Page project inspired by the largest financial education platform in the world, Finclass. It was developed in order to learn more about Front End development using HTML, CSS, Javascript, React.js and UI/UX Design tools.
