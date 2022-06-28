@@ -17,6 +17,17 @@
   <img align="center" alt="Danilo-MaterialUi" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 </div>
 
+#
+
+<div>
+  <img align="center"  height="300" width="400" src="https://user-images.githubusercontent.com/94642853/176243554-1690c919-ea11-44f8-a62e-8ff6c59b0db7.png"/>
+  <img align="center"  height="300" width="400" src="https://user-images.githubusercontent.com/94642853/172471538-a5f7e816-b419-4c20-8ab2-909b9ad1e631.png"/>
+</div>
+<div>
+  <img align="center"  height="300" width="400" src="https://user-images.githubusercontent.com/94642853/172471538-a5f7e816-b419-4c20-8ab2-909b9ad1e631.png"/>
+  <img align="center"  height="300" width="400" src="https://user-images.githubusercontent.com/94642853/176243554-1690c919-ea11-44f8-a62e-8ff6c59b0db7.png"/>
+</div>
+
 ##
 
 <h3><a href="https://github.com/Danilo-Silverio/Finclass">Finclass</a></h3>
@@ -28,6 +39,13 @@
   <img align="center" alt="Danilo-HTML" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> 
   <img align="center" alt="Danilo-CSS" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img align="center" alt="Danilo-React" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+</div>
+
+#
+
+<div>
+  <img align="center"  height="300" width="400" src="https://user-images.githubusercontent.com/94642853/160842431-820f9962-a4ca-4e27-91ea-4920fcc5d544.png"/>
+  <img align="center"  height="300" width="400" src="https://user-images.githubusercontent.com/94642853/160842737-67458b50-9d34-4fde-b68f-bc54f7813863.png"/>
 </div>
 
 ##
@@ -42,6 +60,13 @@
   <img align="center" alt="Danilo-CSS" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 </div>
 
+#
+
+<div>
+  <img align="center"  height="300" width="400" src="https://user-images.githubusercontent.com/94642853/160031994-3a99ec17-8a06-46bd-ab29-dc91e0baefda.png"/>
+  <img align="center"  height="300" width="400" src="https://user-images.githubusercontent.com/94642853/160032089-17653105-2f21-4856-9b69-7d0400c89eef.png"/>
+</div>
+
 ##
 
 <h3><a href="https://github.com/Danilo-Silverio/Nerdweb">Nerdweb</a></h3>
@@ -52,6 +77,13 @@
   <img align="center" alt="Danilo-JS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Danilo-HTML" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> 
   <img align="center" alt="Danilo-CSS" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+</div>
+
+#
+
+<div>
+  <img align="center"  height="300" width="400" src="https://user-images.githubusercontent.com/94642853/162272463-78261806-32c6-45ff-bd3d-0c1c30cfe208.png"/>
+  <img align="center"  height="300" width="400" src="https://user-images.githubusercontent.com/94642853/162269482-4bcd2a7b-15a3-4676-8c83-c44ef64301f1.png"/>
 </div>
 
 ##
@@ -68,46 +100,13 @@
   <img align="center" alt="Danilo-MaterialUi" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 </div>
 
-##
+#
 
-## Screenshots
-
-- Filmeo
-<div>
-  <img align="center"  height="300" width="400" src="https://user-images.githubusercontent.com/94642853/172444584-37ce873e-12fd-4d16-8694-df19e480de3b.png"/>
-  <img align="center"  height="300" width="400" src="https://user-images.githubusercontent.com/94642853/172471538-a5f7e816-b419-4c20-8ab2-909b9ad1e631.png"/>
-</div>
-
-
-##
-
-- Finclass
-<div>
-  <img align="center"  height="300" width="400" src="https://user-images.githubusercontent.com/94642853/160842431-820f9962-a4ca-4e27-91ea-4920fcc5d544.png"/>
-  <img align="center"  height="300" width="400" src="https://user-images.githubusercontent.com/94642853/160842737-67458b50-9d34-4fde-b68f-bc54f7813863.png"/>
-</div>
-
-##
-
-- Hogwarts Magic
-<div>
-  <img align="center"  height="300" width="400" src="https://user-images.githubusercontent.com/94642853/160031994-3a99ec17-8a06-46bd-ab29-dc91e0baefda.png"/>
- <img align="center"  height="300" width="400" src="https://user-images.githubusercontent.com/94642853/160032213-f5195a16-6fb3-46d1-8c1e-a0856cfeb1e6.png"/>
-
-##
-
-- Nerdweb
-<div>
-  <img align="center"  height="300" width="400" src="https://user-images.githubusercontent.com/94642853/162272463-78261806-32c6-45ff-bd3d-0c1c30cfe208.png"/>
-  <img align="center"  height="300" width="400" src="https://user-images.githubusercontent.com/94642853/162269482-4bcd2a7b-15a3-4676-8c83-c44ef64301f1.png"/>
-</div>
-
-##
-
-- We Talk
 <div>
   <img align="center"  height="300" width="400" src="https://user-images.githubusercontent.com/94642853/176223160-357e473b-26f6-40bb-a57a-c6ba714df32d.png"/>
   <img align="center"  height="300" width="400" src="https://user-images.githubusercontent.com/94642853/176224418-74f7da56-10b7-4b18-a34b-7077bce2ffd3.png"/>
 </div>
 
 ##
+
+# 
